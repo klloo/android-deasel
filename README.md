@@ -25,3 +25,8 @@ OpenCv sdk 를 https://github.com/opencv/opencv/releases 에서 다운받아 C:\
 CmakeList.txt 에서 set(pathPROJECT C:/Users/sofod/AndroidStudioProjects/Deasel-github) 부분을
 프로젝트를 저장한 경로로 설정
 
+
+
+![image](https://user-images.githubusercontent.com/53117014/87042945-4e3b9300-c22f-11ea-8d32-43354d70f414.png)
+![image](https://user-images.githubusercontent.com/53117014/87042970-585d9180-c22f-11ea-9b0c-6f338b5c30f8.png)
+![image](https://user-images.githubusercontent.com/53117014/87043400-f2bdd500-c22f-11ea-8d02-e6f708b7783d.png)
