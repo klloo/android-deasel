@@ -5,6 +5,12 @@
 
 직접 찍은 사진을 컬러링 할 수 있는 프로그램
 
+
+
+![image](https://user-images.githubusercontent.com/53117014/87044103-0cabe780-c231-11ea-9db4-2ee646c4d491.png)
+![image](https://user-images.githubusercontent.com/53117014/87043400-f2bdd500-c22f-11ea-8d02-e6f708b7783d.png)
+
+
 👍 AppIntro Opensource 사용 ( https://github.com/AppIntro/AppIntro )
 
 👍 ImageCropper OpenSouce 사용 ( https://github.com/ArthurHub/Android-Image-Cropper)
@@ -24,11 +30,4 @@
 OpenCv sdk 를 https://github.com/opencv/opencv/releases 에서 다운받아 C:\OpenCV\Android-sdk 경로에 압축을 푼다
 CmakeList.txt 에서 set(pathPROJECT C:/Users/sofod/AndroidStudioProjects/Deasel-github) 부분을
 프로젝트를 저장한 경로로 설정
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/53117014/87044103-0cabe780-c231-11ea-9db4-2ee646c4d491.png)
-![image](https://user-images.githubusercontent.com/53117014/87043400-f2bdd500-c22f-11ea-8d02-e6f708b7783d.png)
 
