@@ -1,9 +1,10 @@
 # Deasel
-2019년도 2학기 임베디드소프트웨어II 팀프로젝트
+#### 2019년도 2학기 임베디드소프트웨어II 팀프로젝트
+
+직접 찍은 사진을 컬러링 할 수 있는 프로그램
 
 이유진 장희영 유연주 박민주
 
-직접 찍은 사진을 컬러링 할 수 있는 프로그램
 
 ![image](https://user-images.githubusercontent.com/53117014/87044103-0cabe780-c231-11ea-9db4-2ee646c4d491.png)
 ![image](https://user-images.githubusercontent.com/53117014/87043400-f2bdd500-c22f-11ea-8d02-e6f708b7783d.png)
