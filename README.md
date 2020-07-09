@@ -29,6 +29,6 @@ CmakeList.txt 에서 set(pathPROJECT C:/Users/sofod/AndroidStudioProjects/Deasel
 
 
 
-![image](https://user-images.githubusercontent.com/53117014/87042945-4e3b9300-c22f-11ea-8d32-43354d70f414.png)
+![image](https://user-images.githubusercontent.com/53117014/87044103-0cabe780-c231-11ea-9db4-2ee646c4d491.png)
 ![image](https://user-images.githubusercontent.com/53117014/87043400-f2bdd500-c22f-11ea-8d02-e6f708b7783d.png)
 
